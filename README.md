@@ -18,6 +18,18 @@ Implicit requirements:
 2. There are no detailed requirements, use common sense.
 
 
+# Steps to run the server
+
+1. Check-out the code
+2. Go to the downloads path
+3. Execute from console:
+```
+	mvn clean install
+```
+4. Execut from console:
+```
+	mvn exec:java
+```
 
 # Request to add new BankAccount
 
